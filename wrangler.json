@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bichradiodb",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c97edbbc-478e-455b-a69f-c7b110e0297a",
+			"database_name": "bichradio-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
